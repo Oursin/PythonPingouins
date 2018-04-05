@@ -29,7 +29,7 @@ def ma_fonction(arg):
 
 ### Exercice
 
-Codons un peu, voulez vous ? Commencez par écrire une fonction qui prend deux valeurs en paramètre, puis retourne leur somme. Appelez enfi un Pingouin.
+Codons un peu, voulez vous ? Commencez par écrire une fonction qui prend deux valeurs en paramètre, puis retourne leur somme. Appelez enfin un Pingouin.
 
 ## Partie 2 - Structures de contrôle
 
