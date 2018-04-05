@@ -14,6 +14,8 @@ Considérant que vous avez tous déjà codé en C, il me semble important de rev
 
 * Python est un langage interprété, le C est un langage compilé. Dans tous les cas vous aurez besoin d'un programme pour que votre code puisse fonctionner, mais la méthode utilisée est différente. En C, un programme va transformer votre code en langage machine, en Python c'est un programme qui va directement lire votre code et l'éxecuter. Le principal avantage de cette méthode est d'assurer que votre code fonctionnera sur n'importe quelle machine, pour peu que l'interpréteur Python soit installé.
 
+* Pour lancer votre programme, vous pouvez utiliser la commande `python3 <fichier>.py`.
+
 * Le type des variables est dynamique. En C, si je veux convertir une chaîne de caractères en un entier, il me faut avoir deux variables, un char * et un int. En Python une même variable peut très bien changer de type au cours de son utilisation. Également, les entiers en Python ne souffrent pas de la même limite qu'en C, vous pouvez aller aussi loin que vous le souhaîtez.
 
 * Pas de fonction `main` en Python. Python est un langage de script, vous pouvez écrire votre code tel quel dans votre fichier, l'interpréteur le lira de haut en bas.
