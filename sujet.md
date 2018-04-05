@@ -78,7 +78,9 @@ Jouons un peu avec les structures de contrôle à présent :
 
 * Créez ensuite une fonction qui vérifie si l'ensemble des valeurs d'une liste est positif. Cette fonction renverra les mêmes valeurs que la précédente, et on supposera que toutes les valeurs sont des nombres.
 
-* Créez enfin une fonction qui prend une liste en paramètre, et renvoie une nouvelle liste ne contenant que les valeurs positives de la liste initiale. Par exemple si je donne la liste `[-1, 6, 8, -56]`, cette fonction me renverra la liste `[6, 8]`.
+* Créez une fonction qui prend une liste en paramètre, et renvoie une nouvelle liste ne contenant que les valeurs positives de la liste initiale. Par exemple si je donne la liste `[-1, 6, 8, -56]`, cette fonction me renverra la liste `[6, 8]`.
+
+* Enfin, créez une fonction dont le protoype sera le suivant `def func(mylist, n)` et qui devra afficher les `n` premiers éléments de `mylist`. Pensez à la gestion d'erreur !
 
 ## Partie 3 - Parlons objet
 
